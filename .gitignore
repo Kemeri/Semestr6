@@ -1,4 +1,4 @@
 
-.idea/**.**
-out/**.**
-Component/META-INF/**.**
+.idea\**.**
+out\**.**
+Component\META-INF\**.**
